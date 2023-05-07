@@ -5,7 +5,7 @@
         src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"
         width="30px"
       />
-      Hi, I'm Kshitiz
+      Hi, I'm Anay Kamal Singh
       <img
         src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"
         width="30px"
@@ -14,7 +14,7 @@
   </p>
 </h1>
 <p align ="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;Web+Developer+;UI-UX+Designer+%F0%9F%91%BB">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;FrontEnd+Developer+;Data-Analyst+%F0%9F%91%BB">
 </p>
 
  ###📬 Take a look at my repository and get in touch!
