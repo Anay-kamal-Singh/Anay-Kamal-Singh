@@ -49,7 +49,7 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)* pursuing 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
+  - 🛠 Data Analytics Projects
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 💬 Ask me about Python, ML, CV, Raspi
 - 🎉 Fun-Fact: I ❤ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
