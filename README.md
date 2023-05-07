@@ -26,7 +26,6 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/kshitizprakash0907)](https://auth.geeksforgeeks.org/user/kshitizprakash0907)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kshitizprakash9703?theme=nord&font=Baloo%20Tammudu%202&ext=activity)
 
 <p align = "right"> Wanna Connect? <br>
  <a href=https://www.flaticon.com/free-icon/github_2111432></a>
