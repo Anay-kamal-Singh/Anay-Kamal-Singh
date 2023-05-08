@@ -5,7 +5,7 @@
         src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"
         width="30px"
       />
-      Hi, I'm Anay Kamal Singh
+      Hello, I'm Anay Kamal Singh
       <img
         src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"
         width="30px"
