@@ -30,7 +30,7 @@
 <p align = "right"> Wanna Connect? <br>
  <a href=https://www.flaticon.com/free-icon/github_2111432></a>
   <a href="https://www.linkedin.com/in/anay-kamal-singh-/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png"></a>&nbsp;
-  <a href="https://www.instagram.com/shreyanshmalvya/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
+  <a href="https://www.instagram.com/a_n_a_y__/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
   <a href="https://open.spotify.com/user/h1mc01zkxb1qy76ziqozb6h81"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png"></a>&nbsp;
 </p>
 
@@ -50,8 +50,7 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)* pursuing 
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 Data Analytics Projects
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, CV, Raspi
+- 💬 Ask me about Python, ML, Java, Data Analytics
 - 🎉 Fun-Fact: I ❤ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
  
