@@ -74,11 +74,6 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)* pursuing 
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
 
 
-### 🚀 Quick Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anay-Kamal-Singh&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
-
-
 <!-- <details>
 <summary> 💥 Working on </summary>
 <br>
