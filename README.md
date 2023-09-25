@@ -49,8 +49,8 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)* pursuing 
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 Data Analytics Projects
-- 💬 Ask me about Python, ML, Java, Data Analytics
-- 🎉 Fun-Fact: I ❤ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 💬 Ask me about Java, Data Analytics, Python
+- 🎉 Fun-Fact: I ❤ to read Manga/Manwa and watch anime and Sci-Fi Movies🎬
 
  
 
@@ -70,7 +70,6 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)* pursuing 
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
 
 
